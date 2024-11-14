@@ -1,9 +1,8 @@
 //lab08//
-console.log
-let name="charlize";
+let username="charlize";
 let age="19";
-console.log("name",charlize)
-console.log("age",19);
+console.log(usename);
+console.log(age);
 
 let numberVar = 17;
 let booleanVar = false;
